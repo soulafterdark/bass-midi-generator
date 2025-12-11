@@ -1,4 +1,8 @@
 ![Bass MIDI Generator](banner1.png)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built in Google Colab](https://img.shields.io/badge/Built%20in-Colab-orange)
+
 # Bass MIDI Generator (v0.1 → v0.2)
 
 This project is a **Bass MIDI Generator** for EDM/house music. It runs in a Jupyter/Colab notebook and generates bassline MIDI files you can drag directly into your DAW (Ableton, FL Studio, Logic, etc.).
